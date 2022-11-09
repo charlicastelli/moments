@@ -1,27 +1,11 @@
 # Moments
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.4.
+- Projeto criado para aprendizado do curso no YouTube "https://www.youtube.com/c/MatheusBattisti" - Matheus Battisti
+- Api usada também criada pelo Matheus Battisti.
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+#Images
+![1](https://user-images.githubusercontent.com/80997263/200929173-34186eca-1db0-4c93-94c7-13c092c4a29b.png)
+![2](https://user-images.githubusercontent.com/80997263/200929184-c26a4af1-482f-47ea-b88c-9dfdb94fa48c.png)
+![3](https://user-images.githubusercontent.com/80997263/200929192-fc4e373d-aa63-436c-a44b-6d06685ae45c.png)
+![4](https://user-images.githubusercontent.com/80997263/200929203-75de0e86-5118-433c-8dc7-028a2e00e840.png)
+![5](https://user-images.githubusercontent.com/80997263/200929215-6d0bcfe1-77e7-45a2-b8cc-f7c4b689d057.png)
